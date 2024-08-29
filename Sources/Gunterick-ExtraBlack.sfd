@@ -4,7 +4,7 @@ FullName: Gunterick ExtraBlack
 FamilyName: Gunterick
 Weight: ExtraBlack
 Copyright: Copyright (c) 2024, Zamero Type Foundry
-UComments: "2024-2-13: Created with FontForge (http://fontforge.org)"
+UComments: "2024-2-13: Created with FontForge (http://fontforge.org)+AAoACgAK-Big Pete."
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1707854499
-ModificationTime: 1724716929
+ModificationTime: 1724893690
 PfmFamily: 81
 TTFWeight: 1000
 TTFWidth: 5
@@ -40,18 +40,18 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
+OS2Vendor: 'ZAM '
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "Marco Mahone" "Marco Mahone" "BOOM! +ACIA-Gun+ACIA-terick! +AAoACgAA-Okay, no, that's not why it's called that, but Gunterick does sound German, like the fonts that were inspired by it, which are +ACIA-Futura Black+ACIA and +ACIA-Papierschrift.+ACIA" "https://fontforge.org/en-US/" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "Marco Mahone" "Marco Mahone" "BOOM! +ACIA-Gun+ACIA-terick! +AAoACgAA-Okay, no, that's not why it's called that, but Gunterick does sound German, like the fonts that were inspired by it, which are +ACIA-Futura Black+ACIA and +ACIA-Papierschrift.+ACIA" "https://github.com/Bronnel721" "https://github.com/Bronnel721" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 27 9
+WinInfo: 65313 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -77,7 +77,8 @@ Grid
  2000 731.0078125 l 1024
   Named: "Cap Height"
 EndSplineSet
-BeginChars: 65541 143
+TeXData: 1 0 0 209715 104857 69905 504376 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 65543 145
 
 StartChar: I
 Encoding: 73 73 0
@@ -1504,7 +1505,7 @@ Refer: 56 46 N 1 0 0 1 0 277 2
 Validated: 1
 EndChar
 
-StartChar: NameMe.258
+StartChar: a.ss01
 Encoding: 65536 -1 60
 Width: 516
 Flags: W
@@ -2038,7 +2039,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.65537
+StartChar: Z.ss02
 Encoding: 65537 -1 81
 Width: 754
 Flags: W
@@ -2063,7 +2064,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.65538
+StartChar: z.ss02
 Encoding: 65538 -1 82
 Width: 503
 Flags: W
@@ -2493,7 +2494,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.65539
+StartChar: S.ss03
 Encoding: 65539 -1 100
 Width: 526
 Flags: W
@@ -2527,7 +2528,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.65540
+StartChar: s.ss03
 Encoding: 65540 -1 101
 Width: 368
 Flags: W
@@ -3519,6 +3520,55 @@ SplineSet
  131.41796875 546.580078125 182.505859375 489.865234375 264 481.958984375 c 1
  264 0 l 1
  30 0 l 1xb0
+EndSplineSet
+EndChar
+
+StartChar: g.ss04
+Encoding: 65541 -1 143
+Width: 536
+Flags: W
+HStem: -193.994 57.9111<194.583 289.635> 0 21G<182.152 254.5> 0 21G<182.152 254.5> 461.011 20G<182.152 254.5 290.5 506>
+VStem: 17 237.5<181.097 305.92> 290.5 215.5<-95.7825 480.554>
+LayerCount: 2
+Fore
+SplineSet
+290.5 -136.083007812 m 5x9c
+ 290.5 481.010742188 l 1
+ 506 480.553710938 l 1
+ 506 -4.451171875 l 2
+ 506 -150.739257812 383.527880714 -193.994140625 285 -193.994140625 c 0
+ 93.6114156114 -193.994140625 43 -31 43 -31 c 1
+ 112 -31 l 1
+ 112 -31 149.40652819 -136.083007812 290.5 -136.083007812 c 5x9c
+254.5 0 m 1xdc
+ 109.8046875 6.18359375 17 101.323242188 17 244.561523438 c 0
+ 17 383.047851562 109.8046875 475.032226562 254.5 481.010742188 c 1
+ 254.5 0 l 1xdc
+EndSplineSet
+EndChar
+
+StartChar: y.ss04
+Encoding: 65542 -1 144
+Width: 539
+Flags: W
+HStem: -193.994 57.9111<197.583 292.635> 0 21G<185.152 257.5> 0 21G<185.152 257.5> 461.011 20G<20 257.5 293.5 509>
+VStem: 20 237.5<181.097 481.011> 293.5 215.5<-95.7825 480.554>
+LayerCount: 2
+Fore
+SplineSet
+293.5 -136.083007812 m 5x9c
+ 293.5 481.010742188 l 1
+ 509 480.553710938 l 1
+ 509 -4.451171875 l 2
+ 509 -150.739257812 386.527880714 -193.994140625 288 -193.994140625 c 0
+ 96.6114156114 -193.994140625 46 -31 46 -31 c 1
+ 115 -31 l 1
+ 115 -31 152.40652819 -136.083007812 293.5 -136.083007812 c 5x9c
+257.5 0 m 1xdc
+ 112.804449958 6.18351887495 20 101.323516978 20 244.561523438 c 2
+ 20 481.010742188 l 1
+ 257.5 481.010742188 l 1
+ 257.5 0 l 1xdc
 EndSplineSet
 EndChar
 EndChars
